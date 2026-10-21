@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Golden rice grains">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f7efdc"/><stop offset="1" stop-color="#dfc790"/></linearGradient>
+    <linearGradient id="bowl" x2="0" y2="1"><stop stop-color="#b96638"/><stop offset="1" stop-color="#81442d"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <path d="M0 408h800v112H0z" fill="#b89a69"/>
+  <circle cx="648" cy="102" r="64" fill="#fff8e6" opacity=".72"/>
+  <ellipse cx="400" cy="415" rx="230" ry="25" fill="#5f4530" opacity=".2"/>
+  <path d="M211 300h378c-11 107-89 157-189 157s-178-50-189-157z" fill="url(#bowl)" stroke="#743e2b" stroke-width="10"/>
+  <ellipse cx="400" cy="300" rx="190" ry="72" fill="#ead09b" stroke="#874a30" stroke-width="12"/>
+  <ellipse cx="400" cy="294" rx="163" ry="51" fill="#f5e5bd"/>
+  <g fill="#ead6a3" stroke="#c6ad76" stroke-width="2">
+    <ellipse cx="301" cy="291" rx="28" ry="8" transform="rotate(19 301 291)"/><ellipse cx="344" cy="270" rx="29" ry="8" transform="rotate(-12 344 270)"/>
+    <ellipse cx="390" cy="295" rx="28" ry="8" transform="rotate(8 390 295)"/><ellipse cx="437" cy="272" rx="29" ry="8" transform="rotate(-19 437 272)"/>
+    <ellipse cx="482" cy="299" rx="29" ry="8" transform="rotate(14 482 299)"/><ellipse cx="526" cy="279" rx="27" ry="8" transform="rotate(-8 526 279)"/>
+    <ellipse cx="324" cy="316" rx="27" ry="8" transform="rotate(-17 324 316)"/><ellipse cx="370" cy="322" rx="29" ry="8" transform="rotate(11 370 322)"/>
+    <ellipse cx="420" cy="315" rx="28" ry="8" transform="rotate(-9 420 315)"/><ellipse cx="465" cy="324" rx="27" ry="8" transform="rotate(18 465 324)"/>
+  </g>
+  <path d="M276 372h248" stroke="#d48855" stroke-width="8" opacity=".55"/>
+</svg>

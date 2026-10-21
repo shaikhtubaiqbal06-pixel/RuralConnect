@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Reusable cotton shopping bag">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#e7f1dc"/><stop offset="1" stop-color="#c7d6ac"/></linearGradient>
+    <linearGradient id="bag" x2="0" y2="1"><stop stop-color="#f3dfb5"/><stop offset="1" stop-color="#d8bb87"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="120" cy="115" r="72" fill="#fff7dd" opacity=".72"/>
+  <path d="M0 415h800v105H0z" fill="#a9b889"/>
+  <ellipse cx="402" cy="420" rx="180" ry="24" fill="#47543d" opacity=".2"/>
+  <path d="M310 205v-46c0-103 180-103 180 0v46" fill="none" stroke="#8a704e" stroke-width="18"/>
+  <path d="M240 202h320l-27 215H267z" fill="url(#bag)" stroke="#a58b61" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M272 245h256" stroke="#c2a273" stroke-width="6" stroke-dasharray="8 10"/>
+  <path d="M400 282c-38-49-101 9 0 79 101-70 38-128 0-79z" fill="#748d59"/>
+  <path d="M400 294v63m0-34-26-17m27 29 25-19" fill="none" stroke="#f3ead5" stroke-width="7" stroke-linecap="round"/>
+  <path d="M294 390h212" stroke="#b18f5f" stroke-width="5" opacity=".65"/>
+</svg>

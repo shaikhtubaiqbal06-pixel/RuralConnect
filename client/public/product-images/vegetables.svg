@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Fresh farm vegetables">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#eaf1d8"/><stop offset="1" stop-color="#c5d39e"/></linearGradient></defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="660" cy="98" r="66" fill="#fff9dc" opacity=".8"/>
+  <path d="M0 406h800v114H0z" fill="#9eae72"/>
+  <ellipse cx="400" cy="414" rx="246" ry="27" fill="#4f5e39" opacity=".2"/>
+  <path d="M178 293h444l-38 133H216z" fill="#b87648" stroke="#875535" stroke-width="10"/>
+  <path d="M199 324h402m-393 42h382m-370 43h358" stroke="#dca16b" stroke-width="11"/>
+  <path d="M273 299c-29-81 8-139 66-144 29 64 13 124-66 144z" fill="#e75b45"/>
+  <path d="M382 299c-50-71-28-132 25-158 48 50 51 112-25 158z" fill="#f2c33d"/>
+  <path d="M494 300c-34-77-4-136 54-149 34 61 22 122-54 149z" fill="#7b9b4b"/>
+  <path d="M280 220c-12-35-32-49-56-53m183-24c4-33 18-52 41-67m99 75c17-29 38-39 62-37" fill="none" stroke="#587b46" stroke-width="12" stroke-linecap="round"/>
+  <path d="M261 332h279" stroke="#f2d4aa" stroke-width="7" opacity=".6"/>
+</svg>

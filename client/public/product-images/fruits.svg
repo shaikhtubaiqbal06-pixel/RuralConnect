@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Fresh ripe mangoes">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#fff1d0"/><stop offset="1" stop-color="#e9c779"/></linearGradient>
+    <linearGradient id="mango" x2=".8" y2="1"><stop stop-color="#fbd04f"/><stop offset=".6" stop-color="#f49a2e"/><stop offset="1" stop-color="#d75b35"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="660" cy="92" r="68" fill="#fff9e5" opacity=".8"/>
+  <path d="M0 420h800v100H0z" fill="#b7a36c"/>
+  <ellipse cx="398" cy="426" rx="246" ry="27" fill="#76582f" opacity=".18"/>
+  <path d="M193 345c-29-93 57-160 148-122 52 22 69 69 47 124-31 80-167 84-195-2z" fill="url(#mango)"/>
+  <path d="M316 375c-25-90 61-161 152-124 52 21 71 67 49 122-32 82-177 89-201 2z" fill="url(#mango)"/>
+  <path d="M425 343c-25-89 58-153 145-117 49 21 66 66 45 116-30 76-166 82-190 1z" fill="url(#mango)"/>
+  <path d="M319 228c9-38 35-60 66-69m111 77c9-35 35-56 64-64m-304 25c7-31 29-49 54-58" fill="none" stroke="#6e7f3e" stroke-width="11" stroke-linecap="round"/>
+  <path d="M383 160c33-44 76-40 100-22-26 30-62 39-100 22zm111 11c30-43 70-42 94-23-24 31-59 41-94 23zm-303-33c27-37 64-35 85-18-21 27-52 36-85 18z" fill="#718c4d"/>
+</svg>

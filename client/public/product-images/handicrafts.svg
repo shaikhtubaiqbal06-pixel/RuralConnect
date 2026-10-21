@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Handwoven wicker basket">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f6e9ce"/><stop offset="1" stop-color="#d9bd8d"/></linearGradient>
+    <linearGradient id="basket" x2="0" y2="1"><stop stop-color="#ce9850"/><stop offset="1" stop-color="#95602f"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="660" cy="100" r="66" fill="#fff7df" opacity=".65"/>
+  <path d="M0 400h800v120H0z" fill="#c8a877"/>
+  <ellipse cx="400" cy="405" rx="232" ry="35" fill="#705036" opacity=".2"/>
+  <path d="M280 226c5-124 235-124 240 0" fill="none" stroke="#9c6936" stroke-width="22" stroke-linecap="round"/>
+  <path d="M214 223h372l-37 177c-4 22-24 37-47 37H298c-23 0-43-15-47-37z" fill="url(#basket)" stroke="#895a31" stroke-width="12"/>
+  <path d="M221 255h358M231 294h340M239 333h324M248 372h306" stroke="#e1b66c" stroke-width="12" opacity=".9"/>
+  <path d="M276 229l21 202m57-202 11 208m70-208-11 208m69-208-21 202m-212-83 240-64m-250 106 262-68m-246-82 218 59m-207 40 239 64" stroke="#f0cb84" stroke-width="8" opacity=".85"/>
+  <path d="M188 434h425" stroke="#754f32" stroke-width="8" stroke-linecap="round" opacity=".5"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Jar of homemade pickles">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f8edcf"/><stop offset="1" stop-color="#e5c98e"/></linearGradient>
+    <linearGradient id="jar" x2="0" y2="1"><stop stop-color="#c7d68b" stop-opacity=".85"/><stop offset="1" stop-color="#698243" stop-opacity=".95"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#bg)"/>
+  <circle cx="650" cy="100" r="67" fill="#fff9e8" opacity=".7"/>
+  <path d="M0 410h800v110H0z" fill="#c99d64"/>
+  <ellipse cx="400" cy="420" rx="158" ry="22" fill="#6a4e2d" opacity=".2"/>
+  <path d="M320 146h160v49H320z" rx="8" fill="#8e5434"/>
+  <path d="M293 190h214l20 209c2 22-15 40-37 40H310c-22 0-39-18-37-40z" fill="url(#jar)" stroke="#8d7948" stroke-width="10"/>
+  <path d="M304 274c43-32 75 29 106-2 36-35 66 33 108 1l6 64c-36 32-73-23-111 7-37 29-69-31-103 2z" fill="#e4a735"/>
+  <path d="M305 244c30 21 52-17 83 4m29 2c27 17 54-20 88 2m-174 130c32-26 54 18 86-4m34-3c30-23 49 18 82-2" fill="none" stroke="#b94727" stroke-width="14" stroke-linecap="round"/>
+  <path d="M344 190v-33m112 33v-33" stroke="#f6e7ba" stroke-width="8" opacity=".8"/>
+  <path d="M350 352h100" stroke="#f5e9c4" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+</svg>
